@@ -1,21 +1,21 @@
-### Hi, I'm Mahalakame RM - Aspiring Data Scientist 👋
+### Hi, I'm Kishore S - AI/ML Engineer 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahalakame-ramasamy-94460b22a/)   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white=https://medium.com/@mahalakamerm/)](https://medium.com/@mahalakamerm)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mahalakame)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-s-0251301a4/)    [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/mahalakame](https://www.kaggle.com/kishore24))
 
  
 
 
-- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying DevOPs).
+- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying MLOps).
 
-- 🔭 I’m currently working on effective engineering solutions for the better future. I have a bachelors in Information science & engineering and a strong background knowledge in Development and Artificial Intelligence. Getting a life changing product into the hands of people is my calling
+- 🔭 As an AI engineer, I focus in building intelligent systems that automate processes, analyze data, and generate insights. Current learning to build scalable, efficient, and high-performance AI systems. 
 
-- 👯 I have Profound knowledge in Machine Learning, Deep Learning,Data Analysis.
+
+
+- 👯 Throughout my career, I've had the pleasure of collaborating with cross-functional teams and contributing to various stages of the development lifecycle, from ideation to deployment. 
 - 💬 Ask me about Machine Learning, Deep Learning and Data Processing.
 
 
-- ⚡ Fun fact: When I'm not working I'm likely to hear music, yelling at athletes on TV who can't hear me, reading anything I can find on Steve Jobs and Muhammad Ali and I go by the motto “Character consists of what you do on the third and fourth tries"
-
-Technologies I've been learning and using so far (alphabetical order) :
+Technologies I've been learning and using so far :
 
 - Programming languages : <br />
     [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](python.org) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
