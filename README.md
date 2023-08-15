@@ -40,7 +40,3 @@ Technologies I've been learning and using so far :
     [![VS Code](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)]()
 - APIs : <br />
     [![Dialogflow](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)]()
-
-Contact me at 👉 [mahalakamerm@gmail.com](mahalakamerm@gmail.com)
-
-
